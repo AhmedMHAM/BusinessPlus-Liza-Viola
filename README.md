@@ -1,2 +1,2 @@
 # BusinessPlus-Liza-Viola
-Education Software For Learining Programming Langauge
+Education Software For Learning Programming Langauge
